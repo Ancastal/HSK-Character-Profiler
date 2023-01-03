@@ -1,11 +1,6 @@
 import collections
-import jieba
 from nltk import sent_tokenize
 from jieba import cut
-from pypinyin import lazy_pinyin, pinyin
-from collections import OrderedDict
-import transformers
-from lexical_diversity import lex_div as ld
 
 hsk1, hsk2, hsk3, hsk4, hsk5, hsk6, hsk7 = [set() for _ in range(7)]
 level_sets = OrderedDict(zip(range(1, 8), [hsk1, hsk2, hsk3, hsk4, hsk5, hsk6, hsk7]))
