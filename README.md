@@ -1,4 +1,4 @@
-#HSK Character Profiler
+# HSK Character Profiler
 
 HSK Character Profiler is a Python command-line tool that provides a way to analyze a text file containing Chinese characters to determine the levels of proficiency in Chinese language skills based on the HSK (Hanyu Shuiping Kaoshi) system.
 
