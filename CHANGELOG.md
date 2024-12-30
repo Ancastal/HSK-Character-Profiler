@@ -1,5 +1,9 @@
 ## [Unreleased]
 
+## [1.1.1] - 2024-01-09
+### Added
+- Added project logo to README.md
+
 ## [1.1.0] - 2024-12-30
 ### Changed
 - Improved user interface with welcome banner and usage instructions
