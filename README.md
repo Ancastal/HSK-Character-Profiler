@@ -1,5 +1,4 @@
 # HSK Character Profiler
-<img src="logo.webp" width=70% height=70%>
 
 ![Version](https://img.shields.io/badge/version-1.1.1-blue.svg)
 
