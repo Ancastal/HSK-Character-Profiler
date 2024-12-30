@@ -1,8 +1,5 @@
 # HSK Character Profiler
-<img src="logo.webp" width=70% height=70%>
-
----
-
+<img src="logo.webp" width=50% height=50%>
 ![Version](https://img.shields.io/badge/version-1.1.1-blue.svg)
 
 The HSK Character Profiler is a Python command-line tool developed as part of a Master's thesis in Computational Linguistics titled "Evaluating the Effectiveness of Machine Translation for Literary Works: A Comparative Study of English and Chinese Corpora."
