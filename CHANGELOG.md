@@ -1,4 +1,6 @@
 ## [Unreleased]
+
+## [1.1.0] - 2024-01-09
 ### Changed
 - Improved user interface with welcome banner and usage instructions
 - Added color-coded HSK level indicators
